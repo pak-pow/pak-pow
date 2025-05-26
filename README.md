@@ -1,1 +1,45 @@
+# 👋 Hello, I'm veee!
+
+Welcome to my GitHub profile! I'm currently learning and building projects in Python, especially as part of my school work. Here's a quick overview of what you'll find in my repositories.
+
+---
+
+## 📂 Repositories Overview
+
+### 🏫 `school-projects`
+> In this repository, you'll find all the code I've written for various school-related projects. These are mainly assignments and exercises that helped me learn programming concepts.
+
+### 🧪 `small-and-simple-projects`
+> A collection of small and simple Python projects. These were created either for practice or just for fun—perfect for beginners to explore and understand core ideas.
+
+### 🏬 `store-projects`
+> This repository contains projects related to store systems—like inventory or sales management. A bit more advanced than the others, but still a great learning experience.
+
+---
+
+## 🔧 Skills & Tools
+
+- 📌 Python
+- 📁 Git & GitHub
+- 🐼 Pandas (learning)
+- 🗃️ Database-MySQL (learning)
+- 📱 PyQT5/6
+- 👾 PyGame (learning)
+- 🧠 Still learning...
+
+---
+
+## 🌱 What I'm Learning Now
+
+I'm currently improving my Python skills and working on more structured and useful real-world projects. I'm also learning about data handling and interface design.
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to check out my work or reach out for feedback, tips, or collaboration on beginner-friendly projects!
+
+---
+
+> ### “The best way to learn is by doing.”
 
