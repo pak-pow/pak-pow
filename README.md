@@ -35,6 +35,14 @@ I'm currently improving my Python skills and working on more structured and usef
 
 ---
 
+
+## 📊 GitHub Stats
+
+![veee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pak-pow&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pak-pow&layout=compact&theme=radical)
+
+---
+
 ## 🤝 Let's Connect
 
 Feel free to check out my work or reach out for feedback, tips, or collaboration on beginner-friendly projects!
