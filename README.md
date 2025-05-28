@@ -1,6 +1,7 @@
 # 👋 Hello, I'm veee!
 
-![banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=F7D716&background=1B1B1B00&center=true&vCenter=true&width=600&height=60&lines=Hey+there%2C+I%27m+pak-pow!;Computer+Science+Student+%7C+Python+Tinkerer;Problem+Solver+%7C+Book+Lover+%7C+Always+Learning)
+
+[![Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=F7D716&width=600&height=60&lines=Hi+there%2C+I'm+Vee!;Computer+Science+Student+%7C+Python+Developer+;Problem+Solver+%7C+Book+Lover+%7C+Always+learning)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm currently learning and building projects in Python, especially as part of my school work. Here's a quick overview of what you'll find in my repositories.
 
