@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello! I'm Vincent Aguirre
+# 👋 Hello! I'm Vee!
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=2F80ED&center=true&vCenter=true&width=600&height=60&lines=Computer+Science+Student;UI%2FUX+Designer;Full+Stack+Developer+in+Progress;Independent+Learner" alt="Typing SVG" />
