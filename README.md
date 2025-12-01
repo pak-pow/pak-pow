@@ -68,8 +68,7 @@ graph LR
 
 ### 🔄 Systems & Logic (Foundations)
 
-Mastering system-level thinking through strict-typed languages and algorithmic efficiency.
-This shapes how I approach performance, structure, and scalability.
+Built on a strong academic background in **C++**, **Java**, and **Python** emphasizing _algorithmic thinking_, _efficient memory use_, and _system-level logic_.
 
 ### 🎮 Computational Geometry (Current Focus)
 
@@ -82,11 +81,7 @@ Game development serves as my sandbox for applied mathematics:
 
 ### 🤖 Intelligent Systems (Future Path)
 
-I plan to integrate my design background with backend engineering to develop:
-
-* ML-enhanced applications
-* Full-stack systems
-* Interactive and intelligent user experiences
+Evolving toward **full-stack development** integrated with **ML-powered systems** and intelligent interactive applications.
 
 ---
 
@@ -94,15 +89,15 @@ I plan to integrate my design background with backend engineering to develop:
 
 ## 📊 GitHub Statistics
 
-![veee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pak-pow\&show_icons=true\&theme=radical)
+![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pak-pow&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pak-pow\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pak-pow&layout=compact&theme=radical)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pak-pow\&color=blue\&style=flat-square\&label=Profile+Views)
-
+![Profile Views](https://komarev.com/ghpvc/?username=pak-pow&color=blue&style=flat-square&label=Profile+Views)
 </div>
+
 
 ---
 
