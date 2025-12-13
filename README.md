@@ -266,8 +266,6 @@ Evolving toward production-grade full-stack development:
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pak-pow&color=61dafb&style=for-the-badge&label=Profile+Views)
-
 </div>
 
 ---
