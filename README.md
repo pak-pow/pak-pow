@@ -55,7 +55,7 @@
 
 <img src="https://img.shields.io/badge/Start_Date-January_1,_2026-00D9FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Progress-0%2F52_Completed-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Ready_to_Launch-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Ongoing-00C853?style=for-the-badge" />
 
 **[Complete Roadmap & Details →](https://github.com/pak-pow/PROJECT52)**
 
