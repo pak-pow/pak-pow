@@ -156,7 +156,7 @@ Current projects showcasing design and development capabilities.
 | :------ | :--- | :---------- | :---- | :----: |
 | **[KlimaTech](https://github.com/pak-pow/KlimaTech)** | UI/UX Designer | Hackathon project centered on climate action. Delivered a complete UX workflow with high-fidelity prototyping, accessibility-driven UI, and clear user flows. | `Figma` | ✅ |
 | **[ConFisense](https://github.com/pak-pow/ConFisense)** | UI/UX Designer | Financial analytics dashboard with modular and scalable interface systems, reusable components, and design–development alignment. | `Figma` `Design Systems` | ✅ |
-| **[pygame_projects](https://github.com/pak-pow/pygame_projects)** | Developer | A structured, multi-stage roadmap exploring game development foundations with custom 3D raycasting engine, vector math & physics simulation. | `Python` `Pygame` | 🟡 |
+| **[pygame_projects](https://github.com/pak-pow/pygame_projects)** | Developer | A structured, multi-stage roadmap exploring game development foundations with custom 3D raycasting engine, vector math & physics simulation. | `Python` `Pygame` | 🟢 |
 | **[store-projects](https://github.com/pak-pow/store-projects)** | Developer | Practical business tools designed for retail environments including inventory systems, Point-of-Sale applications, and SQL-based data handling. | `Python` `SQL` | 🟡 |
 | **[small-and-simple](https://github.com/pak-pow/small-and-simple-projects)** | Developer | A living archive of problem-solving exercises and utility scripts for fundamental CS reinforcement and algorithm experimentation. | `Python` | 🟢 |
 
