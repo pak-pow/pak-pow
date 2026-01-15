@@ -57,7 +57,7 @@
 ### One Project. Every Week. For 52 Weeks.
 
 <img src="https://img.shields.io/badge/Start_Date-December_29,_2025-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Progress-2%2F52_Completed-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Progress-3%2F52_Completed-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Ongoing-00C853?style=for-the-badge" />
 
 **[Complete Roadmap & Details →](https://github.com/pak-pow/PROJECT52)**
