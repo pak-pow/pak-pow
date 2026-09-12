@@ -114,6 +114,7 @@ Building 1 Full-Stack Project Every Week for 52 Weeks.
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <br><br>
+
 **Location:** Philippines (UTC+8) &nbsp;|&nbsp; **Status:** Data Science Student (CS) &nbsp;|&nbsp; **Availability:** Open for Opportunities (2026)
 
 </div>
