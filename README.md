@@ -78,9 +78,7 @@ Building 1 Full-Stack Project Every Week for 52 Weeks.
 ---
 
 ## GitHub Activity & Stats
-
 <div align="center">
-
 <table>
 <tr>
 <td width="50%">
@@ -91,11 +89,6 @@ Building 1 Full-Stack Project Every Week for 52 Weeks.
 </td>
 </tr>
 </table>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pak-pow&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
-
 </div>
 
 ---
